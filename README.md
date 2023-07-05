@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dxorithm
+- 👋 Hi, I’m @dxvoid
 - 🌱 I’m currently pursuing engineering specialization in Cyber Security. 
 - 📫 How to reach me 
 Email - devanshsharma1004@gmail.com

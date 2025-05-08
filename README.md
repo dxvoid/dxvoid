@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Banner.mp4" alt="dxvoid banner" />
+  <img src="https://raw.githubusercontent.com/dxvoid/dxvoid/main/banner.gif" alt="Demo GIF">
 </p>
+
 
 # dxvoid
 

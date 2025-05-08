@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/dxvoid/dxvoid/main/banner.gif" alt="Demo GIF">
 </p>
 

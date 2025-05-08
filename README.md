@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="dxvoid banner" />
+  <img src="Banner.mp4" alt="dxvoid banner" />
 </p>
 
 # dxvoid
